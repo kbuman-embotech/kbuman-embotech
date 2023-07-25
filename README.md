@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Kevin Buman](buman@embotech.com)
-- 👀 I’m interested in C++, Clean Code, Game Engine, Computer Graphics
+- 👀 I’m interested in C++, Clean Code, Game Engines, Computer Graphics
 - 🌱 I’m currently learning C++
 
 <!---
